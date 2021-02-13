@@ -1,0 +1,217 @@
+*{
+    
+    font-family: Arial;
+}
+.container{
+    width: 960px;
+    height: 100px;
+}
+.container h2{
+    background-color: #4076a5;
+    color: white;
+    padding: 15px;
+    margin-top: -25px;
+    margin-bottom:0px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.logo{
+    width: 99%;
+}
+.logo img{
+    width: 100px;
+    height: auto;
+}
+.logo h1{
+    display: inline-block;
+    margin-bottom: 25px;
+    vertical-align: top;
+    font-size: 45px;
+    font-weight: 500;
+    color: #474747;
+}
+.logo h1 span{
+    color: #28659d;
+
+}
+.sidebar{
+    width:250px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+.sidebar h3{
+    font-weight: 700;
+    margin-left: 5px;
+}
+.sidebar p{
+    font-weight: 700;
+    margin-left: 5px;
+}
+.sidebar .red{
+    color: red;
+}
+.sidebar span{
+    color:  #28659d;
+}
+.sidebar button{
+    width: 95%;
+    padding: 10px 0px;
+    margin-left:5px;
+    margin-bottom: 4px;
+    border-radius: 8px;
+    font-size: 20px;
+    color:white;
+    font-weight: 500;
+    box-shadow: 2px 2px 2px gray;
+}
+.sidebar .bluebutton{
+    background-color: #3a74a8;
+}
+.sidebar .orangebutton{
+    background-color: #ec8c19;
+}
+.sidebar .line{
+    width: 250px;
+    border-top:#BEBEBE solid 2px;
+    margin: 15px 0px;
+    
+}
+.sidebar .learnmore{
+background-image: url(images/ad_background.png);
+height: 335px;
+}
+.sidebar .learnmore h3{
+    font-size: 26px;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    padding: 20px 10px 0px 0px;
+}
+.sidebar .learnmore img{
+    width: 100px;
+    display: block;
+    margin: -25px auto 10px auto;
+}
+.sidebar .learnmore button{
+    background-color: #3bc7de;
+    width: 87%;
+    padding: 5px;
+    font-size: 16px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 2px 2px 2px black;
+}
+.sidebar .learnmore button span{
+    font-size: 11px;
+    color: white;
+}
+.maincontent{
+	width: 663px;
+    display:inline-block;
+    margin-left: 30px
+}
+.mainheader {
+	border-bottom: #BEBEBE solid 2px;
+	padding-bottom: 10px;
+}
+.mainheader h3 a{
+    color: #28659d;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+.mainheader img{
+	width:20px;
+}
+.mainheader h3 {
+	display:inline-block;
+}
+.mainheader .phoneimg {
+	vertical-align: top;
+	margin-left: 57%;
+	width: 45px;
+    margin-top: 10px;
+    margin-right: 4px;
+}
+.mainheader .contactinfo {
+	display:inline-block;
+    vertical-align: top;
+}
+.contactinfo h3 {
+    color:#14c1de;
+    margin: 0px;
+    font-size: 25px;
+    
+}
+.contactinfo p {
+	font-size: 10px;
+    color: #6d6d6d;
+    margin: 2px 0px 0px 10px;
+}
+.maininfo {
+    padding: 0px;
+    margin-left: 0px;
+}
+.maininfo h3	{
+    color:#28659d;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+.maininfo h4 {
+    font-weight: normal;
+    margin: 0px;
+}
+.maininfo h4 span {
+	font-weight: 750;
+}
+.maininfo ul {
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+.maininfo a {
+	color: #2ba7ba;
+	text-decoration: none;
+}
+.maininfo img {
+	width: 255px;
+	margin: 0px auto;
+	display: block;
+}
+.maininfo ol {
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 15px;
+}
+.maininfo li{
+    margin-bottom: 5px;
+}
+.html_css_js {
+    padding-top:15px;
+    padding-left:15px;
+	margin-top: 20px;
+	border-top: 5px #0084df solid;
+	border-right: 5px #0084df solid;
+	border-left: 5px #0084df solid;
+
+}
+.html_css_js img{
+	width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px ;
+}
+.html_css_js p{
+    margin:5px 0px;
+    font-size: 15px;
+}
+.html_css_js div{
+	display:inline-block;
+	width: 500px;
+}
+.html_css_js span{
+    font-style: italic;
+}
